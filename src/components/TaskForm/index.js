@@ -40,7 +40,7 @@ class TaskForm extends React.Component {
       team: '',
       assignee: '',
       priority: 'P0',
-      status: 'pending',
+      status: 'pen',
     })
   }
 
